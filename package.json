@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-testproject",
+  "version": "1.0.0",
+  "description": "test go brrr",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDiamond123/NodeJS-TestProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDiamond123/NodeJS-TestProject/issues"
+  },
+  "homepage": "https://github.com/MrDiamond123/NodeJS-TestProject#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
